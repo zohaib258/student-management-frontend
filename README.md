@@ -110,3 +110,6 @@ Backend: https://github.com/zohaib258/student-management-backend
 
 Do not commit `.env.local` or other files containing local credentials or secrets. Use `.env.example` as the configuration template.
 
+## Development Workflow
+
+Frontend changes are developed on feature branches and submitted through pull requests targeting `main`.
